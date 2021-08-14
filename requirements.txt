@@ -1,0 +1,11 @@
+pymongo[srv]
+requests
+yt_search
+youtube_dl
+discord
+flask
+google-search
+spotdl
+youtube-search-python
+PyNaCl
+pyosu
